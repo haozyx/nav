@@ -73,7 +73,7 @@ hotTools:
   - name: 时间戳转换
     url: https://tool.lu/timestamp/
     img: /images/logos/github.png
-    description: 代码仓库
+    description: 时间戳转换
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
