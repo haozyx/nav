@@ -74,22 +74,22 @@ hotTools:
     url: https://tool.lu/timestamp/
     img: /images/logos/github.png
     description: 时间戳转换
-  - name: Github
-    url: https://github.com/
+  - name: 在线URL转换
+    url: http://www.jsons.cn/urlencode
     img: /images/logos/github.png
-    description: 代码仓库
-  - name: Github
-    url: https://github.com/
+    description: 在线URL转换
+  - name: 网络空间测绘
+    url: https://fofa.info/
     img: /images/logos/github.png
-    description: 代码仓库
-  - name: Github
-    url: https://github.com/
+    description: 网络空间测绘
+  - name: 机场推荐
+    url: https://github.com/hwanz/SSR-V2ray-Trojan-vpn
     img: /images/logos/github.png
-    description: 代码仓库
-  - name: Github
-    url: https://github.com/
+    description: 机场推荐
+  - name: FNF
+    url: https://fnff.one/auth/login
     img: /images/logos/github.png
-    description: 代码仓库
+    description: 便宜的机场
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
