@@ -62,16 +62,16 @@ devTools:
     description: 代码仓库
   
 hotTools:
-  - name: 极客角落geekyes
-    url: https://www.geekyes.com/
+  - name: ChatGPT
+    url: https://chat.yohaoyun.com/
     img: /images/logos/blog-logo.png
     description: 欢迎访问
-  - name: Github
-    url: https://github.com/
+  - name: 当前时间戳
+    url: https://www.xb02.com/tool/time/
     img: /images/logos/github.png
-    description: 代码仓库
-  - name: Github
-    url: https://github.com/
+    description: 当前时间戳生成工具
+  - name: 时间戳转换
+    url: https://tool.lu/timestamp/
     img: /images/logos/github.png
     description: 代码仓库
   - name: Github
@@ -116,16 +116,16 @@ about:
 
 aboutPage:
   website:
-    head: 欢迎访问极客角落geekyes为您制作的示范导航页
+    head: 欢迎回家！
     html: '<blockquote><p>这是一个WebStack网址导航网站，源于ViggoZ的开源项目，开源地址<a href="https://github.com/WebStackPage/WebStackPage.github.io" target="_blank" rel="noopener">WebStackPage</a>。</p>
  本导航站基于hexo博客程序、<a href="https://github.com/HCLonely/hexo-theme-webstack" target="_blank" rel="noopener">hexo-theme-webstack</a>主题模板、github、vercel 搭建而成。</p></blockquote>'
   webmaster:
     head: 关于主站
-    name: 极客角落geekyes
-    url: https://www.geekyes.com
+    name: 个人记录导航站
+    url: https://nav.yohaoyun.com
     img: /images/logos/blog-logo.png
-    description: 交流分享互联网科技
-    html: '<br /><blockquote><p>同时欢迎访问极客角落<a href="https://www.geekyes.com" target="_blank" rel="noopener"> geekyes</a> 获取更多内容。</p></blockquote>'
+    description: 世上无难事，只要肯登攀。
+    html: '<br /><blockquote><p>功夫不负有心人！</p></blockquote>'
 
 since: 2020
 
