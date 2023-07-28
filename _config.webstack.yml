@@ -104,14 +104,14 @@ news:
     url: http://www.33weixin.com/online
     img: /images/logos/github.png
     description: 微信编辑器
-  - name: Github
-    url: https://github.com/
+  - name: 又拍云
+    url: https://console.upyun.com/
     img: /images/logos/github.png
-    description: 代码仓库
-  - name: Github
-    url: https://github.com/
+    description: 图片仓库地址
+  - name: 创客贴
+    url: https://www.chuangkit.com/
     img: /images/logos/github.png
-    description: 代码仓库
+    description: 微信公众号封面图制作
   
 about:
   url: /about/
