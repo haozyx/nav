@@ -94,10 +94,10 @@ hotTools:
     url: https://fnff.one/auth/login
     img: /images/logos/github.png
     description: 便宜的机场
-  - name: Github
-    url: https://github.com/
+  - name: Vercel
+    url: https://vercel.com/
     img: /images/logos/github.png
-    description: 代码仓库
+    description: 前端代码部署神器
    
 news:
   - name: Github
