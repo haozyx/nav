@@ -32,6 +32,10 @@ devTools:
     url: https://github.com/
     img: /images/logos/github.png
     description: 代码仓库
+  - name: cron
+    url: https://cron.qqe2.com/
+    img: /images/logos/github.png
+    description: cron在线表达式
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
