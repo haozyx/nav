@@ -36,10 +36,10 @@ devTools:
     url: https://cron.qqe2.com/
     img: /images/logos/github.png
     description: cron在线表达式
-  - name: Github
-    url: https://github.com/
+  - name: 免费的GPT地址
+    url: https://github.com/LiLittleCat/awesome-free-chatgpt
     img: /images/logos/github.png
-    description: 代码仓库
+    description: 大部分不能用，记录下而已
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
