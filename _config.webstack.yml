@@ -16,7 +16,7 @@ menu:
   - name: 我的网站
     icon: far fa-star
     config: hotTools
-  - name: 资讯网站
+  - name: 公众号相关
     icon: fas fa-blog
     config: news
   - name: 通讯工具
@@ -36,10 +36,10 @@ devTools:
     url: https://cron.qqe2.com/
     img: /images/logos/github.png
     description: cron在线表达式
-  - name: Github
-    url: https://github.com/
+  - name: 免费的GPT地址
+    url: https://github.com/LiLittleCat/awesome-free-chatgpt
     img: /images/logos/github.png
-    description: 代码仓库
+    description: 大部分不能用，记录下而已
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
@@ -98,20 +98,28 @@ hotTools:
     url: https://github.com/233boy/v2ray/tree/master
     img: /images/logos/github.png
     description: 一键搭建脚本的官网
+  - name: Vercel
+    url: https://vercel.com/
+    img: /images/logos/github.png
+    description: 前端代码部署神器
    
 news:
-  - name: Github
-    url: https://github.com/
+  - name: 微信编辑器
+    url: http://www.33weixin.com/online
     img: /images/logos/github.png
-    description: 代码仓库
-  - name: Github
-    url: https://github.com/
+    description: 微信编辑器
+  - name: 又拍云
+    url: https://console.upyun.com/
     img: /images/logos/github.png
-    description: 代码仓库
-  - name: Github
-    url: https://github.com/
+    description: 图片仓库地址
+  - name: 创客贴
+    url: https://www.chuangkit.com/
     img: /images/logos/github.png
-    description: 代码仓库
+    description: 微信公众号封面图制作
+  - name: copyAI
+    url: https://copyai.cn/
+    img: /images/logos/github.png
+    description: 爆款文案生成工具
   
 about:
   url: /about/
