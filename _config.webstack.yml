@@ -94,10 +94,10 @@ hotTools:
     url: https://fnff.one/auth/login
     img: /images/logos/github.png
     description: 便宜的机场
-  - name: Github
-    url: https://github.com/
+  - name: V2ray一键搭建脚本
+    url: https://github.com/233boy/v2ray/tree/master
     img: /images/logos/github.png
-    description: 代码仓库
+    description: 一键搭建脚本的官网
    
 news:
   - name: Github
